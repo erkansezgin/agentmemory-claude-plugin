@@ -1,0 +1,9 @@
+{
+  "agent-memory": {
+    "type": "http",
+    "url": "${AGENT_MEMORY_URL:-https://memory.empecta.com/v1/mcp}",
+    "headers": {
+      "Authorization": "Bearer ${AGENT_MEMORY_API_KEY}"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "agentmemory",
+  "owner": {
+    "name": "Agent Memory"
+  },
+  "metadata": {
+    "description": "Official Claude Code plugin for Agent Memory, persistent memory for AI agents."
+  },
+  "plugins": [
+    {
+      "name": "agentmemory",
+      "source": "./plugins/agentmemory",
+      "description": "Connect your agent to Agent Memory over MCP: persistent memory for decisions, corrections, violations and approved patterns."
+    }
+  ]
+}

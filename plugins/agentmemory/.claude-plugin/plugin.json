@@ -1,0 +1,9 @@
+{
+  "name": "agentmemory",
+  "version": "0.2.0",
+  "description": "Agent Memory platform connection: MCP server exposing add_memory, search_memory, get_memory, consolidate, curate_block and list_procedures.",
+  "author": {
+    "name": "Agent Memory"
+  },
+  "homepage": "https://memory.empecta.com"
+}
